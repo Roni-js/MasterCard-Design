@@ -29,6 +29,7 @@ h5{
     height: 350px;
     width: 520px;
     border-radius: 15px;
+    box-shadow: 5px 25px 45px rgba(3, 3, 3, 10);
 }
 .text{
     margin-left: 20px;
